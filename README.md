@@ -1,2 +1,2 @@
 # Developer-landing-page
-A developer landing page is a personal website showcasing a developer’s skills, projects, resume, and contact information. It highlights their portfolio and serves as a professional online presence.
+A simple and responsive developer landing page built using only HTML and CSS. Showcases profile, skills, and projects.
